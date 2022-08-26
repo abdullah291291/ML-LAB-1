@@ -1,0 +1,7 @@
+Report:
+
+Data is splitted into 10 folds having the ratio of 30:70 in each of the fold. 
+The Average Accuracy is 84.7% of all the folds. 
+
+After using sklearn library and data is splitted using train-test-split, The accuracy is 85%.
+It is observed that there is no a bigger difference spotted in the accuracies. 
